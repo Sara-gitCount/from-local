@@ -6,6 +6,9 @@ const b = ()=>{
     return '5';
 }
 
+const d=()=>{
+    confirm("Are tou sure?")
+}
 const c =()=>{
     console.log("ggg")
 }
