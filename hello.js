@@ -11,3 +11,10 @@ const b = ()=>{
 const e=()=>{
     alert("e")
 }
+const d=()=>{
+    confirm("Are tou sure?")
+}
+const c =()=>{
+    console.log("ggg")
+
+}
